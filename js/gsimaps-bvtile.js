@@ -39,7 +39,7 @@ GSIBV.Config = {
 };
 
 //if (location.href.match(/font=local/i)) {
-  GSIBV.Config.useLocalFont = false;
+  GSIBV.Config.useLocalFont = true;
 //}
 
 // ブラウザ判定
