@@ -3,6 +3,8 @@
 
 [gsi-style-color-analysisレポジトリ](https://github.com/mghs15/gsi-style-color-analysis)で作成したスタイル置き場です。
 
+![スタイルのサンプル](image/toppage_sample.png "スタイルのサンプル")
+
 ## サンプルスタイル
 「おすすめの地図」から選択できます。
 * 標準地図：地理院地図Vectorの標準地図そのままです。
