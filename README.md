@@ -1,5 +1,5 @@
 # gsi-style-samples
-地理院地図Vectorのオリジナルスタイルサンプル集
+地理院地図Vector用のオリジナルスタイルサンプル集
 
 https://mghs15.github.io/gsi-vector-style-samples/
 
